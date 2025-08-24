@@ -13,7 +13,7 @@ This video walks you through how to create a smart light switch using ESP32, a r
 
 3. **ESP8266 WiFi Relay Selector** || RemoteXY Internet of Things—Home Automation: https://youtu.be/bQO3b9l-Pb0
 
-The 4-channel relay selector switch control using the ESP8266 NodeMCU is suitable for smart homes and Internet of Things projects. The RemoteXY Selector Switch and Selector Options were configured to selectively control the 4-channel relay module using the ESP8266. The ESP8266 is inserted into an ESP8266 NodeMCU breakout adapter board and connected to a 4-channel relay module. The RemoteXY web interface generates the Arduino code, and the Arduino IDE is used to program the code to the ESP8266 NodeMCU. The RemoteXY mobile app controls the ESP8266 NodeMCU - 4-channel relays to selectively switch them on/off.
+The 4-channel relay selector switch, controlled by the ESP8266 NodeMCU, is suitable for smart homes and Internet of Things (IoT) projects. The RemoteXY Selector Switch and Selector Options were configured to control the 4-channel relay module using the ESP8266 selectively. The ESP8266 is inserted into an ESP8266 NodeMCU breakout adapter board and connected to a 4-channel relay module. The RemoteXY web interface generates the Arduino code, and the Arduino IDE is used to program the code to the ESP8266 NodeMCU. The RemoteXY mobile app controls the ESP8266 NodeMCU - 4-channel relays to selectively switch them on/off.
 
 4. **ESP8266 RemoteXY LCD** || RemoteXY Internet of Things—Home Automation: https://youtu.be/H1ZIbxLrUBw
 
