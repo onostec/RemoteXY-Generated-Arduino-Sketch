@@ -86,7 +86,6 @@ void loop()
   lcd.print("     ");  
   lcd.setCursor(8,0);                       //print print the POT data on the LCD
   lcd.print(RemoteXY.edit_01);
-  lcd.print();
 
   lcd.setCursor(8,1);                       //print print the POT data on the LCD
   lcd.print("     ");  
