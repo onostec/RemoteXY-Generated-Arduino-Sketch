@@ -26,3 +26,22 @@ The RemoteXY joystick control sends Y and Y coordinates analog data (between -10
 6. **Change Room Light Colors with ESP8266 + Smartphone** || RemoteXY Internet of Things—Home Automation: https://youtu.be/TchVnWQotTI
 
 ✨ Change your room light colors using ESP8266 and your smartphone! In this IoT project, I used the RemoteXY app in conjunction with an ESP8266 NodeMCU to control an RGB LED (or LED strip) and create a real-time ambient mood lighting. With the Arduino IDE and RemoteXY’s RGB Color control, your phone sends color values over Wi-Fi to the ESP8266, which updates the LED using analogWrite. This setup works with both common anode and common cathode RGB LEDs, making it easy to adapt for LED strips or smart lamps.
+
+
+7. **Watch Your Switches Light Up in Real Time! | ESP8266 + RemoteXY** || RemoteXY Internet of Things—Home Automation: https://youtu.be/4K5UNSzTVfM
+
+📱 Monitor ESP8266 input status on your smartphone with RemoteXY! Learn how to track buttons, switches & sensors in real-time using Arduino IDE + Wi-Fi. #ESP8266 #IoT
+
+In this IoT project, I show how to use the RemoteXY app with ESP8266 NodeMCU to display real-time input states like push buttons, switches, or sensors on your phone. This is a simple but powerful way to build smart home monitoring systems.
+
+Using Arduino IDE and RemoteXY LED indication, the ESP8266 can track inputs (D5–D8) and send their status over Wi-Fi. You’ll learn how to configure multiple inputs with pull-up resistors, set LED indicators for each input, and even create a single multi-state LED with custom colors and blink intervals.
+
+
+8. **How to Make a Color Detector with ESP8266 + RemoteXY!** || RemoteXY Internet of Things—Home Automation: https://youtu.be/pk-ZltnRSfg
+
+📱Build a Smart RGB LED Color Detector with ESP8266 NodeMCU, TCS230 color sensor, and RemoteXY. 🌈 Detect colours in real time and light up an RGB LED while viewing live RGB values on your phone!
+
+In this step-by-step tutorial, we’ll build a smart RGB LED colour detector using the ESP8266 NodeMCU, the TCS230/TCS3200 colour sensor, and a 4-pin RGB LED. This project combines IoT with ESP8266, Arduino coding, and sensor-based electronics to detect colours and display them instantly on an LED and in the RemoteXY app dashboard.
+
+When you place a red, green, or blue object in front of the TCS230 colour sensor, the ESP8266 processes the data and lights up the RGB LED with the detected shade. At the same time, the RemoteXY ESP8266 interface shows the RGB values live on your smartphone — no custom app coding required.
+
