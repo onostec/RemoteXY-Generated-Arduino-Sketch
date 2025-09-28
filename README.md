@@ -45,3 +45,12 @@ In this step-by-step tutorial, we’ll build a smart RGB LED colour detector usi
 
 When you place a red, green, or blue object in front of the TCS230 colour sensor, the ESP8266 processes the data and lights up the RGB LED with the detected shade. At the same time, the RemoteXY ESP8266 interface shows the RGB values live on your smartphone — no custom app coding required.
 
+9. **How to Make a Distance Meter With Your Phone and ESP8266** || RemoteXY Internet of Things—Home Automation: https://youtu.be/-PXYzDjL9Wc
+
+📱Build a Smart RGB LED Color Detector with ESP8266 NodeMCU, TCS230 color sensor, and RemoteXY. 🌈 Detect colours in real time and light up an RGB LED while viewing live RGB values on your phone!
+
+Build a Smart Ultrasonic Distance Meter with ESP8266, HC-SR04, and RemoteXY 📏📱
+In this step-by-step tutorial, we’ll create a Wi-Fi-enabled ultrasonic distance meter that displays real-time measurements directly on your smartphone using the RemoteXY app.
+
+This DIY IoT project uses the ESP8266 NodeMCU and the HC-SR04 ultrasonic sensor to calculate distance and send live data to your phone over Wi-Fi — no custom apps needed!
+
